@@ -1,6 +1,7 @@
 ﻿#Include CWebView.ahk ;https://raw.githubusercontent.com/T-vK/AutoHotkey-CWebView/master/CWebView.ahk (modified for html5, thanks to Coco)
 ;CWebView.ahk was written by Coco
- 
+SetBatchLines -1
+
 htmlCode =
 (
 <!DOCTYPE html>
